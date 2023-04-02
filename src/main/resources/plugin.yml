@@ -1,0 +1,9 @@
+name: BasicKitPvP
+version: '${project.version}'
+main: me.harsh.basickitpvp.BasicKitPvP
+api-version: 1.13
+commands:
+  kitpvp:
+    description: base command for plugin
+    usage: /kitpvp
+    aliases: [kp]
